@@ -1,0 +1,4 @@
+#Mon Oct 21 15:56:34 EDT 2019
+base.0=/Users/jio/Documents/Flutter/clima-flutter/build/app/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
