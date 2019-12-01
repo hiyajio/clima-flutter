@@ -1,4 +1,4 @@
-# Clima
+# Clima - Flutter
 
 A weather app inspired by the beautiful designs made by [Olia Gozha](https://dribbble.com/shots/4663154-). It'll help find out the live weather data in the current location of the device as well as the weather for any city through in-app search.
 
